@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "369823173058",
+    "firebase_url": "https://capex-mobile-app.firebaseio.com",
+    "project_id": "capex-mobile-app",
+    "storage_bucket": "capex-mobile-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369823173058:android:c699f1bc04d2a4b4cd2e5b",
+        "android_client_info": {
+          "package_name": "com.capexmobile.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369823173058-3kncfvel80p9ebs1qhcv19qbk760tsdf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.capexmobile.app",
+            "certificate_hash": "5d1b6b56ed95a74e278e095bdb880ae497461841"
+          }
+        },
+        {
+          "client_id": "369823173058-roanl5ri9q8hfl55b1rgum1876rl0q99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi9QV7yGhGUEnFdgFG8OJbN2FBD18NcbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369823173058-ko9l5ipgt275uh5i5lf55f948b12h8ac.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "369823173058-88fbb981vp2gp3k9r2hhccp283dk5i8e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.capexmobile.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

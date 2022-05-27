@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>369823173058-88fbb981vp2gp3k9r2hhccp283dk5i8e.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.369823173058-88fbb981vp2gp3k9r2hhccp283dk5i8e</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>369823173058-3kncfvel80p9ebs1qhcv19qbk760tsdf.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB4g3nP9H_4IFI7dcohEtx8g-nFYfzyI4o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>369823173058</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.capexmobile.app</string>
+	<key>PROJECT_ID</key>
+	<string>capex-mobile-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>capex-mobile-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:369823173058:ios:c8823468f10807aecd2e5b</string>
+	<key>DATABASE_URL</key>
+	<string>https://capex-mobile-app.firebaseio.com</string>
+</dict>
+</plist>
